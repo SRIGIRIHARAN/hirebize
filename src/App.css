@@ -397,3 +397,13 @@ p, a, span, button, input, .form-control {
   background: linear-gradient(95.42deg, #18B9DD -122.1%, #6158FA 9.54%, #E8A6F4 151.44%);
   color: #FFFFFF;
 }
+
+.s-five-banner{
+  border: 1px solid red;
+  padding: 100px 0;
+}
+
+.s-five-banner .card{
+  width: 248px;
+  height: 400px;
+}
